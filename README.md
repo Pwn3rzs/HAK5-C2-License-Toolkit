@@ -26,6 +26,7 @@ Read the public "blog" / "article" / "tutorial" here:
 
 ### Info
 
-Supported version: `v3.3.0`
-
-Check for current version here: [Hak5 Cloud C2 Updates](https://c2.hak5.org/api/v2/feed)
+- Database used: [BoltDB](https://github.com/etcd-io/bbolt)
+- Encoding used: [GOB](https://pkg.go.dev/encoding/gob)
+- Supported version: `v3.3.0`
+- Current version: [Hak5 Cloud C2 Updates](https://c2.hak5.org/api/v2/feed)
