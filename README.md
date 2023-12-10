@@ -1,4 +1,4 @@
-# Hak5 C2 Licensing Toolkit
+# Hak5 Cloud C2 Licensing Toolkit
 
 ### Usage
 
