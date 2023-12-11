@@ -21,7 +21,7 @@
 ### How To
 
 Read the public "blog" / "article" / "tutorial" here:
-- [CyberArsenal Post]()
+- [CyberArsenal Post](https://cyberarsenal.org/threads/hak5-cloud-c2-analysis-cracking-method.1408/)
 - [Telegram Channel]()
 
 ### Info
