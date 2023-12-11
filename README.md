@@ -3,8 +3,8 @@
 ### Usage
 
 - Get the patched binaries here:
-  - [Telegram]()
-  - [CyberArsenal]()
+  - [Telegram]() (Soon)
+  - [CyberArsenal]() (Soon)
 - Run `git clone https://github.com/Pwn3rzs/HAK5-C2-License-Toolkit`
 - Change dir `cd HAK5-C2-License-Toolkit/`
 - Run `go build`
@@ -22,7 +22,6 @@
 
 Read the public "blog" / "article" / "tutorial" here:
 - [CyberArsenal Post](https://cyberarsenal.org/threads/hak5-cloud-c2-analysis-cracking-method.1408/)
-- [Telegram Channel]()
 
 ### Info
 
