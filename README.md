@@ -8,6 +8,8 @@
     - From releases: https://github.com/Pwn3rzs/HAK5-C2-License-Toolkit/releases/tag/v3.3.0
 - Run `git clone https://github.com/Pwn3rzs/HAK5-C2-License-Toolkit`
 - Change dir `cd HAK5-C2-License-Toolkit/`
+- Run `go mod init pwn3rzs.cloud/hak5-c2-toolkit`
+- Run `go get go.etcd.io/bbolt`
 - Run `go build`
   - Remember to specify `GOOS` and `GOARCH` for different OS and ARCH, like:
     - `GOARCH=arm64 go build -work -ldflags="-s -w" -o HAK5-C2-Toolkit-mac-arm64`
