@@ -3,8 +3,17 @@
 ### Usage
 
 - Get the patched binaries here:
-  - [Telegram]() (Soon)
-  - [CyberArsenal]() (Soon)
+  - [Telegram](https://t.me/Pwn3rzs/1119)
+  - Direct
+    - **c2-3.3.0_armv5_linux**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_armv5_linux
+    - **c2-3.3.0_armv6_linux**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_armv6_linux
+    - **c2-3.3.0_armv7_linux**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_armv7_linux
+    - **c2-3.3.0_armv8_linux**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_armv8_linux
+    - **c2-3.3.0_i386_windows.exe**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_i386_windows.exe
+    - **c2-3.3.0_i386_linux**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_i386_linux
+    - **c2-3.3.0_amd64_windows.exe**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_amd64_windows.exe
+    - **c2-3.3.0_amd64_linux**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_amd64_linux
+    - **c2-3.3.0_amd64_darwin**: https://ponies.cloud/c2/hak5-cloud-c2/c2-3.3.0_amd64_darwin
 - Run `git clone https://github.com/Pwn3rzs/HAK5-C2-License-Toolkit`
 - Change dir `cd HAK5-C2-License-Toolkit/`
 - Run `go build`
